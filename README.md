@@ -62,6 +62,16 @@
 - [Outcomes-Funds](https://github.com/danielrosehill/Outcomes-Funds)
    Data analysis and visualizations on the establishment and progress of outcomes funds around the world.
 
+## First Entry
+
+*Organisation/categorisation pending!*
+
+- [FirstEntryPublic](https://github.com/danielrosehill/FirstEntryPublic) Files that needed to be added to other repositories.
+
+## Hebrew (Language)
+ 
+- [ENHETechDictionary](https://github.com/danielrosehill/ENHETechDictionary) An English to Hebrew dictionary for common technology terms presented as an Anki deck.
+- [PaleoHebrew](https://github.com/danielrosehill/PaleoHebrew) Housing various projects in Paleo/Proto Hebrew.
 
 ## Home Assistant
 
@@ -77,6 +87,10 @@
    A Home Assistant grocery list optimized for the needs of Israeli consumers.
 - [Jewish-Sabbaths-Holidays](https://github.com/danielrosehill/Jewish-Sabbaths-Holidays) Jewish Shabbat, Yom Tov, and holidays times and events.
 
+## Indexes
+
+- [My-Github-Repo-Index](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
+
 ## Linux (incl. Ubuntu & Fedora)
 
 *Repositories documenting things to do with Linux and the distros that I use (historically Ubuntu but I moved onto Fedora in 2024)*
@@ -88,39 +102,49 @@
 - [UbuntuModifications](https://github.com/danielrosehill/UbuntuModifications) My modifications for Ubuntu Linux.
 - [UbuntuReinstallation](https://github.com/danielrosehill/UbuntuReinstallation) Bash scripts and tools to expedite the installation of my preferred system from stock Ubuntu.
 
+## Open-sourced Info
+
+*Various ideas and project notes that I've open-sourced, especially documentation and general purpose reference material*
+
+- [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects.
+- [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files.
+- [Misc_Documentation](https://github.com/danielrosehill/Misc_Documentation) Miscellaneous technology-related documentation.
+- [Dataset-Publishing-Platforms](https://github.com/danielrosehill/Dataset-Publishing-Platforms) A curated list of open-source/self-hostable platforms for publishing publicly-accessible datasets.
+- [MechanicalKeyboards](https://github.com/danielrosehill/MechanicalKeyboards) Documentation regarding different Cherry MX mechanical keyboard switches.
+- [ResearchNotepad](https://github.com/danielrosehill/ResearchNotepad) Mirroring an Obsidian notepad for jotting down notes.
+- [MyDesktop](https://github.com/danielrosehill/MyDesktop) Documentation for the evolution of my desktop.
+- [StartupIdeas](https://github.com/danielrosehill/StartupIdeas) Open sourcing occasional sparks of innovation.
+
 ## Personal and Miscellaneous
 
- 
-- [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects.
-- [ENHETechDictionary](https://github.com/danielrosehill/ENHETechDictionary) An English to Hebrew dictionary for common technology terms presented as an Anki deck.
-- [FirstEntryPublic](https://github.com/danielrosehill/FirstEntryPublic) Files that needed to be added to other repositories.
-- [MechanicalKeyboards](https://github.com/danielrosehill/MechanicalKeyboards) Documentation regarding different Cherry MX mechanical keyboard switches.
-- [My-Github-Repo-Index](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
-- [My_Tech_Stack](https://github.com/danielrosehill/My_Tech_Stack) Documenting my periodically used tools and services.
-- [MyDesktop](https://github.com/danielrosehill/MyDesktop) Documentation for the evolution of my desktop.
-- [mypublicpgpkeys](https://github.com/danielrosehill/mypublicpgpkeys) My public PGP keys.
-- [myredshiftconf](https://github.com/danielrosehill/myredshiftconf) Daniel Rosehill Redshift conf file.
-- [PaleoHebrew](https://github.com/danielrosehill/PaleoHebrew) Housing various projects in Paleo/Proto Hebrew.
+
 - [PersonalHomepage](https://github.com/danielrosehill/PersonalHomepage) My personal homepage based on the Milky Way Astro theme.
-- [PublicWriting](https://github.com/danielrosehill/PublicWriting) Publicly shared writing.
-- [ResearchNotepad](https://github.com/danielrosehill/ResearchNotepad) Mirroring an Obsidian notepad for jotting down notes.
 - [Resume](https://github.com/danielrosehill/Resume) A periodically updated version of my resume.
-- [Stack-Research-Notes](https://github.com/danielrosehill/Stack-Research-Notes) Notes from various searches for tools and stacks.
-- [StartupIdeas](https://github.com/danielrosehill/StartupIdeas) Open sourcing occasional sparks of innovation.
 - [TechnicalArticles](https://github.com/danielrosehill/TechnicalArticles) Various articles, notes, and guides about technology.
 - [twofactorauth](https://github.com/danielrosehill/twofactorauth)
    List of sites with two factor auth support.
 
+## Pretty Good Privacy (PGP)
+
+- [mypublicpgpkeys](https://github.com/danielrosehill/mypublicpgpkeys) My public PGP keys.
 
 ## Scripts and Utilities
 
-- [Dataset-Publishing-Platforms](https://github.com/danielrosehill/Dataset-Publishing-Platforms) A curated list of open-source/self-hostable platforms for publishing publicly-accessible datasets.
+
 - [Misc-scripts-public](https://github.com/danielrosehill/Misc-scripts-public) Public collection of miscellaneous scripts.
 - [Python-Scripts---Public](https://github.com/danielrosehill/Python-Scripts---Public) Publicly shared Python scripts.
 
-- [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files.
-- [Misc_Documentation](https://github.com/danielrosehill/Misc_Documentation) Miscellaneous technology-related documentation.
+
+# Settings And Configurations
+
+*Settings and configurations that I use for key programs*
+
+- [myredshiftconf](https://github.com/danielrosehill/myredshiftconf) Daniel Rosehill Redshift conf file.
 
 # Tech Stack
 
 *I love researching new technology verticals and am always trying to optimise and (over)tinker with my own tech stack. I haven't done a very good job at this in the past, but I plan on keeping a running log of my discoveries and notes here!*
+
+- [My_Tech_Stack](https://github.com/danielrosehill/My_Tech_Stack) Documenting my periodically used tools and services.
+
+- [Stack-Research-Notes](https://github.com/danielrosehill/Stack-Research-Notes) Notes from various searches for tools and stacks.
