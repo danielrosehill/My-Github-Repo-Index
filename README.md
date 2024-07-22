@@ -6,8 +6,12 @@
 ## Repositories I'm Actively Focused On
 
 - [ChatGPT Scripts & Utilities](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
+
 - [My Custom GPT List](https://github.com/danielrosehill/My-Custom-GPTs)
    List of custom GPTs created with OpenAI's ChatGPT
+
+- [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-)
+  Prompt engineering snippets and resources
 
 - [Index To My Github Repos](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
 
@@ -48,6 +52,7 @@
 - [My Custom GPTs](https://github.com/danielrosehill/My-Custom-GPTs)
    List of custom GPTs created with OpenAI's ChatGPT
 - [My GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
+- [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-) Resources and snippets for GPT prompt engineering
  
 
 ## Data Science and Analysis
