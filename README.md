@@ -2,65 +2,55 @@
 
 *Last update: 22/07/24*
 
+ 
 ## Repositories I'm Actively Focused On
 
-- [ChatGPT-CustomGPT-Dev](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
-- [My-Custom-GPTs](https://github.com/danielrosehill/My-Custom-GPTs)
+- [ChatGPT Scripts & Utilities](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
+- [My Custom GPT List](https://github.com/danielrosehill/My-Custom-GPTs)
    List of custom GPTs created with OpenAI's ChatGPT
 
-- [My-Github-Repo-Index](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
+- [Index To My Github Repos](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
 
 
 ## Astro (CMS)
 
-- [astrostarter](https://github.com/danielrosehill/astrostarter)
+- [Astro Starter Theme With My Edits](https://github.com/danielrosehill/astrostarter)
    A few spins on the Astro starter theme to demonstrate some capabilities that I like adding to this framework.
 
 ## Awesome Lists
 
 *Awesome lists which I have created to group together interesting tools and projects. There are also some lists under the various headers*
 
-- [awesome-opensource-israel](https://github.com/danielrosehill/awesome-opensource-israel) A curated list of Israeli-made projects, events, and individuals.
-- [minimal-awesome-list-generator](https://github.com/danielrosehill/minimal-awesome-list-generator)
+- [Awesome List Generator, Minimal Edit](https://github.com/danielrosehill/minimal-awesome-list-generator)
    A fork of the Awesome list generator modified for simplicity.
 
-## AWS
-
-- [AWSCCPPrep](https://github.com/danielrosehill/AWSCCPPrep)
-   Preparation materials for the AWS Certified Cloud Practitioner exam.
+ - [Awesome Israeli & Jewish Home Assistant Projects](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant) Home automation projects relevant to people in Israel or Jews generally (e.g., Shabbat and zmanim time integrations).
 
 ## Backup and Cloud
 
 *Repositories related to backup approaches including those specific to Linux workstations and backing up consumer SaaS data*
 
-- [backup_internet_israel](https://github.com/danielrosehill/backup_internet_israel) Network schematics and purchasing notes for provisioning failover and bonded internet connectivity in Israel.
-- [CloudBackupApproaches](https://github.com/danielrosehill/CloudBackupApproaches) Periodically updated markdown documentation summarizing manual/non-programmatic methodologies to back up commonly used SaaS/cloud-hosted software utilities.
-- [CloudBackupScripts](https://github.com/danielrosehill/CloudBackupScripts) Various scripts for manually syncing and backing up cloud storage.
-- [Master_Backup_Strategy](https://github.com/danielrosehill/Master_Backup_Strategy)
-   A markdown file summarizing current approaches for creating 3-2-1 compliant backups of local and cloud infrastructure.
+- [Backup internet Israel](https://github.com/danielrosehill/backup_internet_israel) Network schematics and purchasing notes for provisioning failover and bonded internet connectivity in Israel.
+- [Cloud backup approaches](https://github.com/danielrosehill/CloudBackupApproaches) Periodically updated markdown documentation summarizing manual/non-programmatic methodologies to back up commonly used SaaS/cloud-hosted software utilities.
+- [Cloud backup scripts](https://github.com/danielrosehill/CloudBackupScripts) Various scripts for manually syncing and backing up cloud storage.
+- [Github backup solutions](https://github.com/danielrosehill/Github-Backup-Solutions) A list of providers offering Github backup as a service 
 
 ## ChatGPT, Custom GPTs, Generative AI
 
 *Repositories related to custom GPTs and other generative AI topics*
 
-- [ChatGPT-CustomGPT-Dev](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
-- [My-Custom-GPTs](https://github.com/danielrosehill/My-Custom-GPTs)
+- [ChatGPT Development Scripts](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
+- [My Custom GPTs](https://github.com/danielrosehill/My-Custom-GPTs)
    List of custom GPTs created with OpenAI's ChatGPT
-- [GPT-Workspace-Folder-Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
+- [My GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
  
 
 ## Data Science and Analysis
 
 *Repositories related to various data and data visualisation related projects, especially The Impact Database*
 
-- [Data-Science-Israel](https://github.com/danielrosehill/Data-Science-Israel) Data-related companies and people in Israel.
-- [Impact-Investing-First-Entry-](https://github.com/danielrosehill/Impact-Investing-First-Entry-) Hosting data about impact investing.
-- [Impact-Weighted-Accounts-Demo-App](https://github.com/danielrosehill/Impact-Weighted-Accounts-Demo-App) A prototype app for displaying impact-weighted accounting data for products.
-- [ImpactDBPipeline](https://github.com/danielrosehill/ImpactDBPipeline) Data ingress pipeline for Impact Database.
-- [ImpactInvestingData](https://github.com/danielrosehill/ImpactInvestingData) Housing visualizations and analyses of data related to impact investing approaches.
-- [ImpactWeightedAccounts](https://github.com/danielrosehill/ImpactWeightedAccounts) Hosting data and visualizations related to the work of the International Foundation for Valuing Impacts.
-- [Outcomes-Funds](https://github.com/danielrosehill/Outcomes-Funds)
-   Data analysis and visualizations on the establishment and progress of outcomes funds around the world.
+- [Data Science Israel](https://github.com/danielrosehill/Data-Science-Israel) Data-related companies and people in Israel.
+
 
 ## First Entry
 
@@ -75,10 +65,10 @@
 
 ## Home Assistant
 
-*Mostly custom scripts and dashboards for Home Assistant OS*
+*Mostly custom scripts and dashboards for Home Assistant OS. Many of these are scripts or dashboards intended specifically for the requirements of Shabbat-observant users*
 
 
-- [awesome-israeli-jewish-home-assistant](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant) Home automation projects relevant to people in Israel or Jews generally (e.g., Shabbat and zmanim time integrations).
+- [Awesome Israeli & Jewish Home Assistant Projects](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant) Home automation projects relevant to people in Israel or Jews generally (e.g., Shabbat and zmanim time integrations).
 - [Home-Assistant-Dashboards-General-](https://github.com/danielrosehill/Home-Assistant-Dashboards-General-) General Home Assistant dashboards - screenshots and YAML.
 - [Home-Assistant-Shabbat-Yom-Tom](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tom) Automations and configurations for Home Assistant for the observance of Jewish festivals and Shabbat.
 - [Home-Assistant-Shabbat-Yom-Tov-Dashboard](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tov-Dashboard) A Shabbat/Yom Tov dashboard for Home Assistant.
@@ -86,6 +76,18 @@
 - [MakoletTime](https://github.com/danielrosehill/MakoletTime)
    A Home Assistant grocery list optimized for the needs of Israeli consumers.
 - [Jewish-Sabbaths-Holidays](https://github.com/danielrosehill/Jewish-Sabbaths-Holidays) Jewish Shabbat, Yom Tov, and holidays times and events.
+
+## Impact Investing
+
+*Repositories related to ongoing work in the field of impact investing, especially with regard to data liberation/publication*
+
+- [Impact-Investing-First-Entry-](https://github.com/danielrosehill/Impact-Investing-First-Entry-) Hosting data about impact investing.
+- [Impact-Weighted-Accounts-Demo-App](https://github.com/danielrosehill/Impact-Weighted-Accounts-Demo-App) A prototype app for displaying impact-weighted accounting data for products.
+- [ImpactDBPipeline](https://github.com/danielrosehill/ImpactDBPipeline) Data ingress pipeline for Impact Database.
+- [ImpactInvestingData](https://github.com/danielrosehill/ImpactInvestingData) Housing visualizations and analyses of data related to impact investing approaches.
+- [ImpactWeightedAccounts](https://github.com/danielrosehill/ImpactWeightedAccounts) Hosting data and visualizations related to the work of the International Foundation for Valuing Impacts.
+- [Outcomes-Funds](https://github.com/danielrosehill/Outcomes-Funds)
+   Data analysis and visualizations on the establishment and progress of outcomes funds around the world.
 
 ## Indexes
 
@@ -135,16 +137,23 @@
 - [Python-Scripts---Public](https://github.com/danielrosehill/Python-Scripts---Public) Publicly shared Python scripts.
 
 
-# Settings And Configurations
+## Settings And Configurations
 
 *Settings and configurations that I use for key programs*
 
 - [myredshiftconf](https://github.com/danielrosehill/myredshiftconf) Daniel Rosehill Redshift conf file.
 
-# Tech Stack
+## Tech Stack
 
 *I love researching new technology verticals and am always trying to optimise and (over)tinker with my own tech stack. I haven't done a very good job at this in the past, but I plan on keeping a running log of my discoveries and notes here!*
 
 - [My_Tech_Stack](https://github.com/danielrosehill/My_Tech_Stack) Documenting my periodically used tools and services.
 
 - [Stack-Research-Notes](https://github.com/danielrosehill/Stack-Research-Notes) Notes from various searches for tools and stacks.
+
+## Archive
+
+*Old repositories that I'm not maintaining any more (or planning to)*
+
+- [Master backup strategy (old)](https://github.com/danielrosehill/Master_Backup_Strategy)
+   A markdown file summarizing current approaches for creating 3-2-1 compliant backups of local and cloud infrastructure.
