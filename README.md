@@ -53,6 +53,7 @@
    List of custom GPTs created with OpenAI's ChatGPT
 - [My GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
 - [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-) Resources and snippets for GPT prompt engineering
+- [Iterative GPT Improvement Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle) Describes a process for iteratively improving GPT output through leveraging a GPT for prompt engineering suggestions
  
 
 ## Data Science and Analysis
