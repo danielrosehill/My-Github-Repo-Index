@@ -1,8 +1,14 @@
 # My Public GitHub Repositories
 
-*Last update: 22/07/24*
+*Last update: 27/07/24*
 
 ## Repositories I'm Actively Focused On
+
+### General
+
+- [Github organisation](https://github.com/danielrosehill/Github-Optimisation) Scripts and ideas for optimising Github repositories
+
+### GPTs, ChatGPT, Prompt Engineering
 
 - [ChatGPT Scripts & Utilities](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
 - [My Custom GPT List](https://github.com/danielrosehill/My-Custom-GPTs)
@@ -12,7 +18,6 @@
 
   Prompt engineering snippets and resources
 - [Index To My Github Repos](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
-
 - [Iterative GPT Improvement Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle) Describes a process for iteratively improving GPT output through leveraging a GPT for prompt engineering suggestions
 - [GPT Prompting Library (Public Version)](https://github.com/danielrosehill/GPT-Prompt-Library-Public-) An open source list of prompts that I have developed (or am developing) for prompting GPTs, such as ChatGPT
 
@@ -57,9 +62,6 @@
 - [Iterative GPT Improvement Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle) Describes a process for iteratively improving GPT output through leveraging a GPT for prompt engineering suggestions
 - [GPT Prompting Library (Public Version)](https://github.com/danielrosehill/GPT-Prompt-Library-Public-) An open source list of prompts that I have developed (or am developing) for prompting GPTs, such as ChatGPT
 
-
-
-
 ## Data Science and Analysis
 
 *Repositories related to various data and data visualisation related projects, especially The Impact Database*
@@ -89,6 +91,10 @@
 - [Makolet Time](https://github.com/danielrosehill/MakoletTime)
 
   A Home Assistant grocery list optimized for the needs of Israeli consumers.
+
+## Github
+
+- [Github organisation](https://github.com/danielrosehill/Github-Optimisation) Scripts and ideas for optimising Github repositories
 
  ## Indexes
 
@@ -156,7 +162,10 @@
 ### Ubuntu Linux
 
 - [Ubuntu Backup Strategy](https://github.com/danielrosehill/UbuntuBackupStrategy) Various Bash scripts and resources for creating backups on Ubuntu.
-- [Ubuntu Bug Resolution](https://github.com/danielrosehill/UbuntuBugResolution) Documentation to resolve Ubuntu bugs.
+- [Ubuntu Bug Resolution](https://github.com/danielrosehill/UbuntuBugResolution)
+- 
+- 
+-  Documentation to resolve Ubuntu bugs.
 - [Ubuntu Modifications](https://github.com/danielrosehill/UbuntuModifications) My modifications for Ubuntu Linux.
 - [UbuntuReinstallation](https://github.com/danielrosehill/UbuntuReinstallation) Bash scripts and tools to expedite the installation of my preferred system from stock Ubuntu.
 - 
