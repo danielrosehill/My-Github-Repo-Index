@@ -215,6 +215,10 @@ Experimentary GPT for modelling geopolitical outcomes
 - [My Public PGP Keys](https://github.com/danielrosehill/mypublicpgpkeys) My public PGP keys. 
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 
+## Reference Material
+
+- [Daniel's Random Taxonomy Fiefdom](https://github.com/danielrosehill/Random-Taxonomies) Various taxonomies for things like GPT organisation and ML model training that I share as CSVs for easy intake into database systems.
+
 ## Scripts and Utilities
 
 - [Misc Public Script Collection](https://github.com/danielrosehill/Misc-scripts-public) Public collection of miscellaneous scripts (usually Bash).
