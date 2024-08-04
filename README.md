@@ -56,7 +56,8 @@
 ### Community Mapping
 
 - [Awesome GPT Commmunities](https://github.com/danielrosehill/Awesome-GPT-Communities)
-Subreddits and other online communities where those passionate about the potential for custom GPTs and AI agents can talk about the emerging art and craft!
+Subreddits and other online communities where those passionate about the potential for custom GPTs and AI agents can talk about the emerging art and craft! ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-blue)
+
 
 ### Custom GPTs
 
@@ -159,8 +160,8 @@ Experimentary GPT for modelling geopolitical outcomes
   List of sites with two factor auth support.
 
 ## Preparedness
-
-- [Jerusalem Public Shelters](https://github.com/danielrosehill/Jerusalem-Public-Shelters) Public shelters in Jerusalem, Israel.
+ 
+- [Jerusalem Public Shelters](https://github.com/danielrosehill/Jerusalem-Public-Shelters) Public shelters in Jerusalem, Israel. ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-blue)
 
 ## Pretty Good Privacy (PGP)
 
@@ -175,7 +176,7 @@ Experimentary GPT for modelling geopolitical outcomes
 
 *Settings and configurations that I use for key programs*
 
-- [My Redshift Configuration>](https://github.com/danielrosehill/myredshiftconf) Daniel Rosehill Redshift conf file.
+- [My Redshift Configuration>](https://github.com/danielrosehill/myredshiftconf) Daniel Rosehill Redshift conf file. ![Old](https://img.shields.io/badge/Old-lightgrey)
 
 ## Tech Stack
 
@@ -188,17 +189,17 @@ Experimentary GPT for modelling geopolitical outcomes
 
 *Old repositories that I'm not maintaining any more (or planning to)*
 
-- [Master backup strategy (old)](https://github.com/danielrosehill/Master_Backup_Strategy)
+- [Master backup strategy (old)](https://github.com/danielrosehill/Master_Backup_Strategy) ![Old](https://img.shields.io/badge/Old-lightgrey)
 
   A markdown file summarizing current approaches for creating 3-2-1 compliant backups of local and cloud infrastructure.
 
 ### Ubuntu Linux
 
-- [Ubuntu Backup Strategy](https://github.com/danielrosehill/UbuntuBackupStrategy) Various Bash scripts and resources for creating backups on Ubuntu.
-- [Ubuntu Bug Resolution](https://github.com/danielrosehill/UbuntuBugResolution)
+- [Ubuntu Backup Strategy](https://github.com/danielrosehill/UbuntuBackupStrategy) Various Bash scripts and resources for creating backups on Ubuntu. ![Old](https://img.shields.io/badge/Old-lightgrey)
+- [Ubuntu Bug Resolution](https://github.com/danielrosehill/UbuntuBugResolution) ![Old](https://img.shields.io/badge/Old-lightgrey)
 - 
 - 
 -  Documentation to resolve Ubuntu bugs.
-- [Ubuntu Modifications](https://github.com/danielrosehill/UbuntuModifications) My modifications for Ubuntu Linux.
-- [UbuntuReinstallation](https://github.com/danielrosehill/UbuntuReinstallation) Bash scripts and tools to expedite the installation of my preferred system from stock Ubuntu.
+- [Ubuntu Modifications](https://github.com/danielrosehill/UbuntuModifications) My modifications for Ubuntu Linux. ![Old](https://img.shields.io/badge/Old-lightgrey)
+- [UbuntuReinstallation](https://github.com/danielrosehill/UbuntuReinstallation) Bash scripts and tools to expedite the installation of my preferred system from stock Ubuntu. ![Old](https://img.shields.io/badge/Old-lightgrey)
 - 
