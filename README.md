@@ -12,7 +12,7 @@
 
 - [My Custom GPT List](https://github.com/danielrosehill/My-Custom-GPTs)
   List of custom GPTs created with OpenAI's ChatGPT
-- [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-)
+- [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-) A "first entry" style repo for everything related to prompt engineering
 - [GPT Use Case Identification](https://github.com/danielrosehill/GPT-Use-Cases)
   Using GPT to generate comprehensive use-case documents describing current and prospective use-cases for GPTs and AI as well as potential future trajectories as technologies evolve
 - [Index To My Github Repos](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
@@ -21,10 +21,10 @@
 
 ## Key To Badges / Statuses
 
-- **Coming Soon**: Repo is currently empty or incomplete but will be populated soon
-- **Inactive**: A "quick idea" repo that I'm not planning on contributing to
-- **Old**: Info in the repo is likely to be out of date and there are no plans to update it
-- **Priority**: Projects I'm interested in / plan on focusing on ... for the next little while at least
+- **Coming Soon**: Repo is currently empty or incomplete but will be populated soon (https://img.shields.io/badge/Coming%20Soon-blue)
+- **Inactive**: A "quick idea" repo that I'm not planning on contributing to (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- **Old**: Info in the repo is likely to be out of date and there are no plans to update it (https://img.shields.io/badge/Old-lightgrey)
+- **Priority**: Projects I'm interested in / plan on focusing on ... for the next little while at least (https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
 
 ---
 
@@ -122,16 +122,21 @@ Experimentary GPT for modelling geopolitical outcomes
 
 *Mostly custom scripts and dashboards for Home Assistant OS. Many of these are scripts or dashboards intended specifically for the requirements of Shabbat-observant users*
 
+### General Repos
+
 - [Awesome Israeli & Jewish Home Assistant Projects](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant) Home automation projects relevant to people in Israel or Jews generally (e.g., Shabbat and zmanim time integrations).
 - [Home Assistant Dashboards - General](https://github.com/danielrosehill/Home-Assistant-Dashboards-General-) General Home Assistant dashboards - screenshots and YAML. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [HA Shabbat And Yom Tov Configuration Scripts](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tom) Automations and configurations for Home Assistant for the observance of Jewish festivals and Shabbat. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [HA Shabbat and Yom Tov Dashboards](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tov-Dashboard) A Shabbat/Yom Tov dashboard for Home Assistant. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 - [My HA Snippets](https://github.com/danielrosehill/Home-Assistant-snippets)Little snippets of YAML for Home Assistant. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 - [Makolet Time](https://github.com/danielrosehill/MakoletTime) ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 
+### Shabbat / Yom Tov 
+
+- [HA Shabbat And Yom Tov Configuration Scripts](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tom) Automations and configurations for Home Assistant for the observance of Jewish festivals and Shabbat. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [HA Shabbat and Yom Tov Dashboards](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tov-Dashboard) A Shabbat/Yom Tov dashboard for Home Assistant. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+
   A Home Assistant grocery list optimized for the needs of Israeli consumers.
 
-## Github
+## Github Organisation
 
 - [Github organisation](https://github.com/danielrosehill/Github-Optimisation) Scripts and ideas for optimising Github repositories ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
 
@@ -152,14 +157,21 @@ Experimentary GPT for modelling geopolitical outcomes
 
 *Various ideas and project notes that I've open-sourced, especially documentation and general purpose reference material*
 
-- [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects.
-- [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files.
-- [Misc Documentation](https://github.com/danielrosehill/Misc_Documentation) Miscellaneous technology-related documentation.
-- [Dataset Publishing Platforms](https://github.com/danielrosehill/Dataset-Publishing-Platforms) A curated list of open-source/self-hostable platforms for publishing publicly-accessible datasets.
-- [Mechanical Keyboards](https://github.com/danielrosehill/MechanicalKeyboards) Documentation regarding different Cherry MX mechanical keyboard switches.
-- [Research Notepad](https://github.com/danielrosehill/ResearchNotepad) Mirroring an Obsidian notepad for jotting down notes.
-- [My Desktop](https://github.com/danielrosehill/MyDesktop) Documentation for the evolution of my desktop.
-- [Startup Ideas](https://github.com/danielrosehill/StartupIdeas) Open sourcing occasional sparks of innovation.
+### Misc Pockets Of Information
+
+
+- [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Misc Documentation](https://github.com/danielrosehill/Misc_Documentation) Miscellaneous technology-related documentation. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Research Notepad](https://github.com/danielrosehill/ResearchNotepad) Mirroring an Obsidian notepad for jotting down notes. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [My Desktop](https://github.com/danielrosehill/MyDesktop) Documentation for the evolution of my desktop. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Startup Ideas](https://github.com/danielrosehill/StartupIdeas) Open sourcing occasional sparks of innovation. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+
+
+### Specific Subjects
+
+- [Dataset Publishing Platforms](https://github.com/danielrosehill/Dataset-Publishing-Platforms) A curated list of open-source/self-hostable platforms for publishing publicly-accessible datasets. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Mechanical Keyboards](https://github.com/danielrosehill/MechanicalKeyboards) Documentation regarding different Cherry MX mechanical keyboard switches. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 
 ## Personal and Miscellaneous
 
@@ -167,12 +179,10 @@ Experimentary GPT for modelling geopolitical outcomes
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 - [Resume](https://github.com/danielrosehill/Resume) A periodically updated version of my resume. 
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+
+### Technical Writing
 - [Technical Articles](https://github.com/danielrosehill/TechnicalArticles) Various articles, notes, and guides about technology. 
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [Two Factor Authentication](https://github.com/danielrosehill/twofactorauth) 
-![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-
-  List of sites with two factor auth support.
 
 ## Preparedness
  
@@ -185,12 +195,12 @@ Experimentary GPT for modelling geopolitical outcomes
 
 ## Scripts and Utilities
 
-- [Misc Public Script Collection](https://github.com/danielrosehill/Misc-scripts-public) Public collection of miscellaneous scripts.
+- [Misc Public Script Collection](https://github.com/danielrosehill/Misc-scripts-public) Public collection of miscellaneous scripts (usually Bash).
 - [Python-Scripts - Public](https://github.com/danielrosehill/Python-Scripts---Public) Publicly shared Python scripts. ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
 
 ## Settings And Configurations
 
-*Settings and configurations that I use for key programs*
+*Settings and configurations that I use for key programs. May but a few config files here in the future!*
 
 - [My Redshift Configuration>](https://github.com/danielrosehill/myredshiftconf) Daniel Rosehill Redshift conf file. ![Old](https://img.shields.io/badge/Old-lightgrey)
 
