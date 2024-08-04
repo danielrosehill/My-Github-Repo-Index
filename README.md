@@ -10,13 +10,13 @@
 
 ### GPTs, ChatGPT, Prompt Engineering
 
-- [ChatGPT Scripts & Utilities](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
+ 
 - [My Custom GPT List](https://github.com/danielrosehill/My-Custom-GPTs)
 
   List of custom GPTs created with OpenAI's ChatGPT
 - [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-)
-
-  Prompt engineering snippets and resources
+- [GPT Use Case Identification](https://github.com/danielrosehill/GPT-Use-Cases)
+  Using GPT to generate comprehensive use-case documents describing current and prospective use-cases for GPTs and AI as well as potential future trajectories as technologies evolve
 - [Index To My Github Repos](https://github.com/danielrosehill/My-Github-Repo-Index) An index to my public Github repositories.
 - [Iterative GPT Improvement Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle) Describes a process for iteratively improving GPT output through leveraging a GPT for prompt engineering suggestions
 - [GPT Prompting Library (Public Version)](https://github.com/danielrosehill/GPT-Prompt-Library-Public-) An open source list of prompts that I have developed (or am developing) for prompting GPTs, such as ChatGPT
@@ -53,14 +53,36 @@
 
 *Repositories related to custom GPTs and other generative AI topics*
 
-- [ChatGPT Development Scripts](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
-- [My Custom GPTs](https://github.com/danielrosehill/My-Custom-GPTs)
+### Community Mapping
 
-  List of custom GPTs created with OpenAI's ChatGPT
-- [My GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
+- [Awesome GPT Commmunities](https://github.com/danielrosehill/Awesome-GPT-Communities)
+Subreddits and other online communities where those passionate about the potential for custom GPTs and AI agents can talk about the emerging art and craft!
+
+### Custom GPTs
+
+- [Geopolitical Modeller GPT](https://github.com/danielrosehill/Geopolitical-Modeller-GPT)
+Experimentary GPT for modelling geopolitical outcomes
+- [My Custom GPTs](https://github.com/danielrosehill/My-Custom-GPTs) List of custom GPTs created with OpenAI's ChatGPT
+- [GPT Use Case Identification](https://github.com/danielrosehill/GPT-Use-Cases)
+  Using GPT to generate comprehensive use-case documents describing current and prospective use-cases for GPTs and AI as well as potential future trajectories as technologies evolve
+
+### Output Capture
+
+- [Helpful GPT Outputs](https://github.com/danielrosehill/Helpful-GPT-Outputs) Miscellaneous outputs from GPTs organised into folders. A public first entry repo for prompt outputs (of sorts).
+
+### Prompt Engineering 
+
 - [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-) Resources and snippets for GPT prompt engineering
-- [Iterative GPT Improvement Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle) Describes a process for iteratively improving GPT output through leveraging a GPT for prompt engineering suggestions
+
+- [ChatGPT Development Scripts](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
+
 - [GPT Prompting Library (Public Version)](https://github.com/danielrosehill/GPT-Prompt-Library-Public-) An open source list of prompts that I have developed (or am developing) for prompting GPTs, such as ChatGPT
+
+### Workflow Notes, Ideas
+
+- [My GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
+
+- [Iterative GPT Improvement Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle) Describes a process for iteratively improving GPT output through leveraging a GPT for prompt engineering suggestions
 
 ## Data Science and Analysis
 
@@ -73,6 +95,11 @@
 *Organisation/categorisation pending!*
 
 - [First Entry Repo](https://github.com/danielrosehill/FirstEntryPublic) Files that needed to be added to other repositories.
+
+## Forked Repos
+
+
+- [Homebox](https://github.com/danielrosehill/homebox) Holding place for some updates to the (updated repo) for the Homebox inventory management program.
 
 ## Hebrew (Language)
 
@@ -106,6 +133,8 @@
 
 - [Awesome Kubernetes Tools For Linux Desktop Users](https://github.com/danielrosehill/awesome-kubernetes-for-linux-desktop) GUIs and other tools that make managing Kubernetes clusters easier for Linux desktop users (I use Ubuntu but will add resources for other distros).
 - [Awesome Linux IDEs](https://github.com/danielrosehill/awesome-linux-ides) Amazing IDEs that work on Linux distros.
+- [Fedora Package Installations](https://github.com/danielrosehill/Fedora-Package-Installations) Some random Fedora packages I like to add to my computers
+
 
 ## Open-sourced Info
 
@@ -128,6 +157,10 @@
 - [Two Factor Authentication](https://github.com/danielrosehill/twofactorauth)
 
   List of sites with two factor auth support.
+
+## Preparedness
+
+- [Jerusalem Public Shelters](https://github.com/danielrosehill/Jerusalem-Public-Shelters) Public shelters in Jerusalem, Israel.
 
 ## Pretty Good Privacy (PGP)
 
