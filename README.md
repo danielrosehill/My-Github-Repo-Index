@@ -21,10 +21,10 @@
 
 ## Key To Badges / Statuses
 
-- **Coming Soon**: Repo is currently empty or incomplete but will be populated soon (https://img.shields.io/badge/Coming%20Soon-blue)
-- **Inactive**: A "quick idea" repo that I'm not planning on contributing to (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- **Old**: Info in the repo is likely to be out of date and there are no plans to update it (https://img.shields.io/badge/Old-lightgrey)
-- **Priority**: Projects I'm interested in / plan on focusing on ... for the next little while at least (https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
+- **Coming Soon**: Repo is currently empty or incomplete but will be populated soon ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-blue)
+- **Inactive**: A "quick idea" repo that I'm not planning on contributing to ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- **Old**: Info in the repo is likely to be out of date and there are no plans to update it ![Old](https://img.shields.io/badge/Old-lightgrey)
+- **Priority**: Projects I'm interested in / plan on focusing on ... for the next little while at least ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
 
 ---
 
@@ -153,25 +153,25 @@ Experimentary GPT for modelling geopolitical outcomes
 - [Fedora Package Installations](https://github.com/danielrosehill/Fedora-Package-Installations) Some random Fedora packages I like to add to my computers
 
 
-## Open-sourced Info
+##  Open Sourced Information (General)
 
 *Various ideas and project notes that I've open-sourced, especially documentation and general purpose reference material*
 
 ### Misc Pockets Of Information
 
 
-- [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [Misc Documentation](https://github.com/danielrosehill/Misc_Documentation) Miscellaneous technology-related documentation. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [Research Notepad](https://github.com/danielrosehill/ResearchNotepad) Mirroring an Obsidian notepad for jotting down notes. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [My Desktop](https://github.com/danielrosehill/MyDesktop) Documentation for the evolution of my desktop. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [Startup Ideas](https://github.com/danielrosehill/StartupIdeas) Open sourcing occasional sparks of innovation. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Misc Documentation](https://github.com/danielrosehill/Misc_Documentation) Miscellaneous technology-related documentation. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Research Notepad](https://github.com/danielrosehill/ResearchNotepad) Mirroring an Obsidian notepad for jotting down notes. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [My Desktop](https://github.com/danielrosehill/MyDesktop) Documentation for the evolution of my desktop. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Startup Ideas](https://github.com/danielrosehill/StartupIdeas) Open sourcing occasional sparks of innovation.![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 
 
 ### Specific Subjects
 
-- [Dataset Publishing Platforms](https://github.com/danielrosehill/Dataset-Publishing-Platforms) A curated list of open-source/self-hostable platforms for publishing publicly-accessible datasets. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- [Mechanical Keyboards](https://github.com/danielrosehill/MechanicalKeyboards) Documentation regarding different Cherry MX mechanical keyboard switches. (https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Dataset Publishing Platforms](https://github.com/danielrosehill/Dataset-Publishing-Platforms) A curated list of open-source/self-hostable platforms for publishing publicly-accessible datasets. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+- [Mechanical Keyboards](https://github.com/danielrosehill/MechanicalKeyboards) Documentation regarding different Cherry MX mechanical keyboard switches. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 
 ## Personal and Miscellaneous
 
