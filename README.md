@@ -208,7 +208,7 @@ Experimentary GPT for modelling geopolitical outcomes
 
 ## Preparedness
  
-- [Jerusalem Public Shelters](https://github.com/danielrosehill/Jerusalem-Public-Shelters) Public shelters in Jerusalem, Israel. ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-blue)
+- [Jerusalem Public Shelters](https://github.com/danielrosehill/Jerusalem-Public-Shelters) Public shelters in Jerusalem, Israel.  
 
 ## Pretty Good Privacy (PGP)
 
