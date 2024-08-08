@@ -64,7 +64,6 @@ No additional restrictions — You may not apply legal terms or technological me
 
 - [Awesome List Generator, Minimal Edit](https://github.com/danielrosehill/minimal-awesome-list-generator) 
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-
   A fork of the Awesome list generator modified for simplicity.
 - [Awesome Israeli & Jewish Home Assistant Projects](https://github.com/danielrosehill/awesome-israeli-jewish-home-assistant) Home automation projects relevant to people in Israel or Jews generally (e.g., Shabbat and zmanim time integrations). 
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
@@ -252,3 +251,27 @@ Experimentary GPT for modelling geopolitical outcomes
 -  Documentation to resolve Ubuntu bugs.
 - [Ubuntu Modifications](https://github.com/danielrosehill/UbuntuModifications) My modifications for Ubuntu Linux. ![Old](https://img.shields.io/badge/Old-lightgrey)
 - [UbuntuReinstallation](https://github.com/danielrosehill/UbuntuReinstallation) Bash scripts and tools to expedite the installation of my preferred system from stock Ubuntu. ![Old](https://img.shields.io/badge/Old-lightgrey)
+
+---
+
+## Author
+
+Daniel Rosehill  
+(public at danielrosehill dot com)
+
+## Licensing
+
+All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+### Summary of the License
+The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+#### License Terms
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
