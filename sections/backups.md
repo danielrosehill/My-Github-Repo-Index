@@ -10,3 +10,7 @@
 ![Old](https://img.shields.io/badge/Old-lightgrey)
 - [Cloud backup scripts](https://github.com/danielrosehill/CloudBackupScripts) Various scripts for manually syncing and backing up cloud storage.
 - [Github backup solutions](https://github.com/danielrosehill/Github-Backup-Solutions) A list of providers offering Github backup as a service 
+
+## Linux Backup Repos (Old)
+
+See: `ubuntu` (under `Linux`)
