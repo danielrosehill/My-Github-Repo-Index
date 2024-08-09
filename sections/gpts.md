@@ -45,6 +45,10 @@ Subreddits and other online communities where those passionate about the potenti
 
 - [GPT Prompting Library (Public Version)](https://github.com/danielrosehill/GPT-Prompt-Library-Public-) An open source list of prompts that I have developed (or am developing) for prompting GPTs, such as ChatGPT
 
+# Reference Information
+
+- [GPT Reference Information](https://github.com/danielrosehill/GPT-Reference-Information) Reference information for working with GPTs including best practices and more
+
 ### Workflow Notes, Ideas
 
 - [My GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure) A folder structure for GPT prompt engineering and development.
