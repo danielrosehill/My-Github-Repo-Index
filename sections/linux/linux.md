@@ -1,4 +1,6 @@
-## Repositories About Linux
+# Daniel Rosehill Github Repository Index
+
+## Section: Linux (General)
 
 *Typically about Linux tools rather than specific distros*
 

@@ -1,4 +1,6 @@
-### Misc Pockets Of Information
+# Daniel Rosehill Github Repository Index
+
+## Section: General Information
 
 - [Documentation](https://github.com/danielrosehill/Documentation) My (public) documentation for Ubuntu and other tech projects. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
 - [Misc](https://github.com/danielrosehill/Misc) Miscellaneous project files. ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)

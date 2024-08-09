@@ -1,4 +1,6 @@
-## Scripts and Utilities
+# Daniel Rosehill Github Repository Index
+
+## Section: Scripts and Utilities
 
 *Modest efforts towards scripting*
 

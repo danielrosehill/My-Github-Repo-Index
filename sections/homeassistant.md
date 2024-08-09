@@ -1,4 +1,6 @@
-## Home Assistant
+# Daniel Rosehill Github Repository Index
+
+## Section: Home Assistant
 
 *Mostly custom scripts and dashboards for Home Assistant OS. Many of these are scripts or dashboards intended specifically for the requirements of Shabbat-observant users*
 

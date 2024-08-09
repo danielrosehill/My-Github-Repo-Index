@@ -1,7 +1,13 @@
-# Homepage
+# Daniel Rosehill Github Repository Index
+
+# Section: About Me
 
 - [Personal Homepage](https://github.com/danielrosehill/PersonalHomepage) My personal homepage based on the Milky Way Astro theme. 
 ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
+
+# Changelog (For Github)
+
+- [Changelog](https://github.com/danielrosehill/Daniel-Public-Changelog)
 
 # Resume
 
