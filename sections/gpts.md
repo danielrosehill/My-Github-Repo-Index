@@ -32,6 +32,7 @@ Subreddits and other online communities where those passionate about the potenti
 ### Output Capture
 
 - [Helpful GPT Outputs](https://github.com/danielrosehill/Helpful-GPT-Outputs) Miscellaneous outputs from GPTs organised into folders. A public first entry repo for prompt outputs (of sorts).
+- [ChatGPT Generated Code]((https://github.com/danielrosehill/ChatGPT-Generated-Code)) A repository in which I capture code and scripts which ChatGPT has been able to generate. Usually it requires a bit of renining but frequently it works out of the box. In almost all cases, it saves a lot of time and effort!
 
 ### Prompt Libraries
 
