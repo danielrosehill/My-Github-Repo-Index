@@ -6,8 +6,8 @@
 
 ## Custom GPTs
 
-- [My Custom GPTs](https://github.com/danielrosehill/My-Custom-GPTs) List of custom GPTs created with OpenAI's ChatGPT ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white) ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
-- 
+- [My Custom GPTs](https://github.com/danielrosehill/My-Custom-GPTs) List of custom GPTs created with OpenAI's ChatGPT ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white) 
+  
 ### Custom GPTs - Individual Projects
 
 - [Geopolitical Modeller GPT](https://github.com/danielrosehill/Geopolitical-Modeller-GPT)
@@ -41,9 +41,8 @@ Subreddits and other online communities where those passionate about the potenti
 ### Prompt Engineering 
 
 - [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering-) Resources and snippets for GPT prompt engineering [Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
-
-- [ChatGPT Development Scripts](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev) Scripts and utilities for managing custom GPTs built with ChatGPT.
-- 
+ 
+  
 # Reference Information
 
 - [GPT Reference Information](https://github.com/danielrosehill/GPT-Reference-Information) Reference information for working with GPTs including best practices and more
