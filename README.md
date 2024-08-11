@@ -1,5 +1,7 @@
 # My Public GitHub Repositories
 
+![Sloth reading repo index on beach](/images/banner.webp)
+
 *Last update: 03/08/24*
 
 # Current Focus Area(s):
