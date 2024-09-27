@@ -1,80 +1,82 @@
-## GitHub Repository Index
+## Awesome Lists
+- [ADHD In Israel](https://github.com/danielrosehill/ADHD-In-Israel)
+  
+## ChatGPT
+- [Awesome ChatGPT Prompts](https://github.com/danielrosehill/awesome-chatgpt-prompts)
+- [ChatGPT CustomGPT Dev](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
+- [ChatGPT Generated Code](https://github.com/danielrosehill/ChatGPT-Generated-Code)
+- [ChatGPT Prompt Library](https://github.com/danielrosehill/ChatGPT-Prompt-Library)
 
-### Home Automation
-- **Awesome-Israeli-Jewish-Home-Assistant**: Home automation projects relevant to Israel or Jewish practices
-- **Home-Assistant-Dashboards-General-**: General Home Assistant dashboard screenshots and YAML
-- **Home-Assistant-Shabbat-Yom-Tom**: Configurations for Home Assistant for Jewish festivals and Shabbat
-- **Home-Assistant-Shabbat-Yom-Tov-Dashboard**: Shabbat/Yom Tov dashboard for Home Assistant
-- **Home-Assistant-snippets**: YAML snippets for Home Assistant usage
-- **MakoletTime**: Home Assistant grocery list optimized for Israeli consumers
+## Kubernetes
+- [Awesome Kubernetes Linux Desktop](https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop)
 
-### Data Analysis and Science
-- **Data-Analysis-Notebook-Public**: Public analytical work with datasets
-- **Data-Relationships-Helper**: Utility for classic data relationships in databases
-- **Data-Science-Israel**: Data-related companies and professionals in Israel
+## Open Source
+- [Awesome Open Source Israel](https://github.com/danielrosehill/awesome-opensource-israel)
 
-### Cloud and Backup
-- **Cloud-Backup-Scripts**: Various cloud storage syncing and backup scripts
-- **CloudBackupApproaches**: Documentation on non-programmatic cloud backup methodologies
-- **Master_Backup_Strategy**: Summary of backup approaches for local and cloud infrastructure
+## Data Science
+- [Data Science Israel](https://github.com/danielrosehill/Data-Science-Israel)
 
-### GitHub Utilities and Optimization
-- **minimal-awesome-list-generator**: Simplified fork of Awesome list generator
-- **Github-Backup-Approaches**: Strategies for backing up GitHub accounts
-- **Github-Optimisation**: Tips and scripts for optimizing GitHub repositories
-- **Github-Repo-Cleaner**: Utility for cleaning up old repositories
-- **My-Github-Repo-Index**: Index to the user's GitHub account
+## Backup Strategies
+- [Cloud Backup Scripts](https://github.com/danielrosehill/Cloud-Backup-Scripts)
+- [Master Backup Strategy](https://github.com/danielrosehill/Master_Backup_Strategy)
 
-### GPT and Prompt Engineering
-- **Awesome-GPT-Communities**: Communities discussing GPTs, including ChatGPT
-- **Awesome-GPT-Prompt-Libraries**: Index of prompting libraries for GPTs
-- **Custom-Chat-GPT-Finder**: Utility for identifying custom ChatGPTs
-- **Custom-GPT-Platforms**: Tools and platforms for custom GPT creation
-- **GPT-Reference-Information**: Repository of reference info about GPTs and LLMs
-- **My-Custom-GPTs**: Configurations for custom GPTs
-- **Prompts-And-Outputs**: Experiments with ChatGPT prompts and outputs
+## Documentation
+- [Document Templates](https://github.com/danielrosehill/Document-Templates)
+- [Documentation](https://github.com/danielrosehill/Documentation)
 
-### Linux and System Management
-- **Awesome-Kubernetes-Linux-Desktop**: GUIs and tools for managing Kubernetes on Linux desktops
-- **Awesome-Linux-IDEs**: IDEs working on Linux distros  
-- **Distro-Tuner**: Template for local repo creation on Linux
+## Development Tools
+- [Awesome Linux IDEs](https://github.com/danielrosehill/Awesome-Linux-IDEs)
 
-### Personal Projects and Documentation
-- **Documentation**: Public documentation for Ubuntu and other projects
-- **Homepage**: User's GitHub homepage
-- **MyDesktop**: Evolution documentation of the user's desktop
-- **TechnicalArticles**: Technology-related articles, notes, and guides
+## AWS
+- [AWS CCP Prep](https://github.com/danielrosehill/AWSCCPPrep)
 
-### Miscellaneous
-- **Misc-Scripts**: Collection of miscellaneous scripts
-- **Misc_Documentation**: Technology-related documentation in markdown
-- **Model-Idea-Refinement-GPT-Agent**: Model/template for a custom GPT agent for idea refinement
-- **Random-Taxonomies**: List of taxonomies generated with GPT
-- **Taxonomy-Generators**: Scripts for creating taxonomies, mostly in Python
+## Home Assistant
+- [Awesome Israeli Jewish Home Assistant](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
+- [Home Assistant Dashboards General](https://github.com/danielrosehill/Home-Assistant-Dashboards-General-)
+- [Home Assistant Shabbat Yom Tom](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tom)
+- [Home Assistant Shabbat Yom Tov Dashboard](https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tov-Dashboard)
+- [Home Assistant Snippets](https://github.com/danielrosehill/Home-Assistant-snippets)
+- [Makolet Time](https://github.com/danielrosehill/MakoletTime)
+- [Homebox](https://github.com/danielrosehill/homebox)
 
-### Development and Coding
-- **astrostarter**: Demonstrates capabilities of Astro starter theme
-- **BLUF-Templates**: Templates and scripts for sending BLUF emails
-- **ChatGPT-Generated-Code**: Programs generated in ChatGPT
-- **GPT-Python**: ChatGPT-generated Python scripts
-- **Python-Scripts**: Publicly shared Python scripts
+## GPT Projects
+- [Awesome GPT Communities](https://github.com/danielrosehill/Awesome-GPT-Communities)
+- [Awesome GPT Prompt Libraries](https://github.com/danielrosehill/Awesome-GPT-Prompt-Libraries)
+- [Awesome Prompt Engineering](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
+- [GPT Output Markdown Templates](https://github.com/danielrosehill/GPT-Output-Markdown-Templates)
+- [GPT Prompt Engineering](https://github.com/danielrosehill/GPT-Prompt-Engineering)
+- [GPT Reference Information](https://github.com/danielrosehill/GPT-Reference-Information)
+- [GPT Repo Utility](https://github.com/danielrosehill/GPT-Repo-Utility)
+- [GPT To PDF](https://github.com/danielrosehill/GPT-To-PDF)
+- [GPT Use Case Ideation](https://github.com/danielrosehill/GPT-Use-Case-Ideation)
+- [GPT Workbench](https://github.com/danielrosehill/GPT-Workbench)
+- [GPT Workspace Folder Structure](https://github.com/danielrosehill/GPT-Workspace-Folder-Structure)
+- [GPT Workspace Scaffolding](https://github.com/danielrosehill/GPT-Workspace-Scaffolding)
+- [GPT Python](https://github.com/danielrosehill/GPT_Python)
+- [Helpful GPT Outputs](https://github.com/danielrosehill/Helpful-GPT-Outputs)
+- [Iteration GPT Prompt Cycle](https://github.com/danielrosehill/Iterative-GPT-Prompt-Cycle)
+- [Model Idea Refinement GPT Agent](https://github.com/danielrosehill/Model-Idea-Refinement-GPT-Agent)
 
-### Study and Learning
-- **AWSCCPPrep**: Preparation materials for AWS Certified Cloud Practitioner exam
-- **ENHETechDictionary**: English to Hebrew dictionary for tech terms
-- **Literacy-Corner-Public-Journals**: Public journals for personal reflection and literacy
+## Data Analysis
+- [Data Analysis Notebook Public](https://github.com/danielrosehill/Data-Analysis-Notebook-Public)
 
-### Data Management and Utilities
-- **Database-Relationship-Identifier-Postgres**: Utility for manifesting relationships in Postgres DB
-- **Dataset-Publishing-Platforms**: List of platforms for public dataset publishing
+## Miscellaneous
+- [BLUF Templates](https://github.com/danielrosehill/BLUF-Templates)
+- [Custom GPT Finder](https://github.com/danielrosehill/Custom-Chat-GPT-Finder)
+- [Custom GPT Platforms](https://github.com/danielrosehill/Custom-GPT-Platforms)
+- [Custom GPTs Of ChatGPT](https://github.com/danielrosehill/Custom-GPTs-Of-ChatGPT)
+- [Daniel Goes Prompting](https://github.com/danielrosehill/Daniel-Goes-Prompting)
+- [Daniel Public Changelog](https://github.com/danielrosehill/Daniel-Public-Changelog)
 
-### Personal Inventory and Projects
-- **Helpful-GPT-Outputs**: Interesting GPT outputs demonstrating capabilities
-- **My-Homebox-Inventory**: Notes about the user's Homebox inventory
-- **My-Scaffolding-Templates**: File structure templates for projects
+## Linux Customization
+- [Distro Tuner](https://github.com/danielrosehill/Distro-Tuner)
 
-### Education and Language
-- **ENHET': An English to Hebrew dictionary for tech terms
-- **Misc_Documentation**: Miscellaneous technology-related documentation
-- **OBISIDIA FOR LLM CAPTURE**: Notes and scripts for optimizing Obsidian for capturing outputs
-- **Postgres-Utilities**: Scripts and hacks for working with Postgres database
+## Home Organization
+- [Homebox](https://github.com/danielrosehill/homebox)
+
+## Personal Projects
+- [My Github Repo Index](https://github.com/danielrosehill/My-Github-Repo-Index)
+- [Research Notepad](https://github.com/danielrosehill/ResearchNotepad)
+- [Resume](https://github.com/danielrosehill/Resume)
+- [Startup Ideas](https://github.com/danielrosehill/StartupIdeas)
+- [Technical Articles](https://github.com/danielrosehill/TechnicalArticles)
