@@ -1,71 +1,80 @@
-# My Public GitHub Repositories
+## GitHub Repository Index
 
-![Sloth reading repo index on beach](/images/banner.webp)
+### Home Automation
+- **Awesome-Israeli-Jewish-Home-Assistant**: Home automation projects relevant to Israel or Jewish practices
+- **Home-Assistant-Dashboards-General-**: General Home Assistant dashboard screenshots and YAML
+- **Home-Assistant-Shabbat-Yom-Tom**: Configurations for Home Assistant for Jewish festivals and Shabbat
+- **Home-Assistant-Shabbat-Yom-Tov-Dashboard**: Shabbat/Yom Tov dashboard for Home Assistant
+- **Home-Assistant-snippets**: YAML snippets for Home Assistant usage
+- **MakoletTime**: Home Assistant grocery list optimized for Israeli consumers
 
-*Last update: 03/08/24*
+### Data Analysis and Science
+- **Data-Analysis-Notebook-Public**: Public analytical work with datasets
+- **Data-Relationships-Helper**: Utility for classic data relationships in databases
+- **Data-Science-Israel**: Data-related companies and professionals in Israel
 
-# Current Focus Area(s):
+### Cloud and Backup
+- **Cloud-Backup-Scripts**: Various cloud storage syncing and backup scripts
+- **CloudBackupApproaches**: Documentation on non-programmatic cloud backup methodologies
+- **Master_Backup_Strategy**: Summary of backup approaches for local and cloud infrastructure
 
-GPTs, Generative AI, LLMs
+### GitHub Utilities and Optimization
+- **minimal-awesome-list-generator**: Simplified fork of Awesome list generator
+- **Github-Backup-Approaches**: Strategies for backing up GitHub accounts
+- **Github-Optimisation**: Tips and scripts for optimizing GitHub repositories
+- **Github-Repo-Cleaner**: Utility for cleaning up old repositories
+- **My-Github-Repo-Index**: Index to the user's GitHub account
 
-Repo Index:
+### GPT and Prompt Engineering
+- **Awesome-GPT-Communities**: Communities discussing GPTs, including ChatGPT
+- **Awesome-GPT-Prompt-Libraries**: Index of prompting libraries for GPTs
+- **Custom-Chat-GPT-Finder**: Utility for identifying custom ChatGPTs
+- **Custom-GPT-Platforms**: Tools and platforms for custom GPT creation
+- **GPT-Reference-Information**: Repository of reference info about GPTs and LLMs
+- **My-Custom-GPTs**: Configurations for custom GPTs
+- **Prompts-And-Outputs**: Experiments with ChatGPT prompts and outputs
 
--[Here](sections/gpts.md)
+### Linux and System Management
+- **Awesome-Kubernetes-Linux-Desktop**: GUIs and tools for managing Kubernetes on Linux desktops
+- **Awesome-Linux-IDEs**: IDEs working on Linux distros  
+- **Distro-Tuner**: Template for local repo creation on Linux
 
-# Links To Repositories By Topic
+### Personal Projects and Documentation
+- **Documentation**: Public documentation for Ubuntu and other projects
+- **Homepage**: User's GitHub homepage
+- **MyDesktop**: Evolution documentation of the user's desktop
+- **TechnicalArticles**: Technology-related articles, notes, and guides
 
-## By Subject, Alphabetical
+### Miscellaneous
+- **Misc-Scripts**: Collection of miscellaneous scripts
+- **Misc_Documentation**: Technology-related documentation in markdown
+- **Model-Idea-Refinement-GPT-Agent**: Model/template for a custom GPT agent for idea refinement
+- **Random-Taxonomies**: List of taxonomies generated with GPT
+- **Taxonomy-Generators**: Scripts for creating taxonomies, mostly in Python
 
-- [About Me](sections/me.md)
-- [Backups](sections/backups.md)
-- [Forks](sections/forks.md)
-- [Github](sections/github.md)
-- [GPTs](sections/gpts.md)
-- [Hebrew](sections/hebrew.md)
-- [Home Assistant](sections/homeassistant.md)
-- [Informational](sections/informational.md)
-- [Israel-specific](sections/israel.md)
-- [Lists](sections/lists.md)
-- [Other](sections/other.md)
-- [Personal Configs](sections/personalconfigs.md)
-- [Preparedness](sections/preparedness.md)
-- [Scripts](sections/scripts.md)
-- [Tech Stack](sections/techstack.md)
-- [Templates](sections/templates.md)
+### Development and Coding
+- **astrostarter**: Demonstrates capabilities of Astro starter theme
+- **BLUF-Templates**: Templates and scripts for sending BLUF emails
+- **ChatGPT-Generated-Code**: Programs generated in ChatGPT
+- **GPT-Python**: ChatGPT-generated Python scripts
+- **Python-Scripts**: Publicly shared Python scripts
 
-## Linux
+### Study and Learning
+- **AWSCCPPrep**: Preparation materials for AWS Certified Cloud Practitioner exam
+- **ENHETechDictionary**: English to Hebrew dictionary for tech terms
+- **Literacy-Corner-Public-Journals**: Public journals for personal reflection and literacy
 
-- [Linux(General)](sections/linux/linux.md)
-- [Fedora](sections/linux/fedora.md)
-- [Ubuntu](sections/linux/ubuntu.md)
+### Data Management and Utilities
+- **Database-Relationship-Identifier-Postgres**: Utility for manifesting relationships in Postgres DB
+- **Dataset-Publishing-Platforms**: List of platforms for public dataset publishing
 
-## Key To Badges / Statuses In Section Pages
+### Personal Inventory and Projects
+- **Helpful-GPT-Outputs**: Interesting GPT outputs demonstrating capabilities
+- **My-Homebox-Inventory**: Notes about the user's Homebox inventory
+- **My-Scaffolding-Templates**: File structure templates for projects
 
-- **Coming Soon**: Repo is currently empty or incomplete but will be populated soon ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-blue)
-- **Inactive**: A "quick idea" repo that I'm not planning on contributing to ![Inactive](https://img.shields.io/badge/Inactive-orange?style=flat&logo=appveyor&logoColor=white)
-- **Old**: Info in the repo is likely to be out of date and there are no plans to update it ![Old](https://img.shields.io/badge/Old-lightgrey)
-- **Priority**: Projects I'm interested in / plan on focusing on ... for the next little while at least ![Priority](https://img.shields.io/badge/Priority-green?style=flat&logoColor=white)
-
----
-
-## Author
-
-Daniel Rosehill  
-(public at danielrosehill dot com)
-
-## Licensing
-
-All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
-
-### Summary of the License
-The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
-- **Share**: Copy and redistribute the material in any medium or format.
-- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-#### License Terms
-- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
+### Education and Language
+- **ENHET': An English to Hebrew dictionary for tech terms
+- **Misc_Documentation**: Miscellaneous technology-related documentation
+- **OBISIDIA FOR LLM CAPTURE**: Notes and scripts for optimizing Obsidian for capturing outputs
+- **Postgres-Utilities**: Scripts and hacks for working with Postgres database
