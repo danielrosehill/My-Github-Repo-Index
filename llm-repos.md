@@ -1,83 +1,109 @@
-# Daniel Rosehill Github Index
+# Daniel Rosehill's LLM-Focused Github Repositories
+
+This index lists all repositories related to Large Language Models (LLMs), categorized for easier navigation.
 
 ![alt text](images/banner.webp)
 
-## Large Language Models, Sub-Index
+
+## Table of Contents
+
+- [Daniel Rosehill's LLM-Focused Github Repositories](#daniel-rosehills-llm-focused-github-repositories)
+  - [Table of Contents](#table-of-contents)
+  - [Agent Frameworks/Tools](#agent-frameworkstools)
+  - [Communities/Discussions](#communitiesdiscussions)
+  - [Context Management/Knowledge Bases](#context-managementknowledge-bases)
+  - [Experimentation/Notebooks](#experimentationnotebooks)
+  - [Prompt Engineering](#prompt-engineering)
+  - [LLM-Generated Code](#llm-generated-code)
+  - [Reference Information/Explanations](#reference-informationexplanations)
+  - [Workflow/Scaffolding](#workflowscaffolding)
+
+<div id="agent-frameworks"></div>
+
+## Agent Frameworks/Tools
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| CustomLLMAgents | Configurations for custom LLM agents, mostly on ChatGPT. JSON configurations for easy replication. | [Link](https://github.com/danielrosehill/Custom-LLM-Agents) |
+
+
+<div id="communities"></div>
+
+## Communities/Discussions
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| AwesomeLLMCommunities | Great online communities discussing LLM use, including ChatGPT. | [Link](https://github.com/danielrosehill/Awesome-LLM-Communities) |
+
+<div id="context-management"></div>
+
+## Context Management/Knowledge Bases
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| MyLLMContextRepoPublic | Public context repository for LLM experimentation (some info withheld). | [Link](https://github.com/danielrosehill/My-LLM-Context-Repo-Public) |
+| MyLLMKMIdea | High-level documentation for a graph-backed knowledge base system for LLM-derived information. | [Link](https://github.com/danielrosehill/My-LLM-KM-Idea) |
+| ObisidianForLLMCapture | GUIs and scripts to optimize Obsidian for use as a knowledge base for LLM outputs, prompts, and agent configurations. | [Link](https://github.com/danielrosehill/Obisidian-For-LLM-Capture) |
+| ObsidianPromptOutputSaver | Utility for running prompts through the OpenAI API and saving them into an Obsidian Vault. | [Link](https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver) |
+
+
+<div id="experimentation"></div>
+
+## Experimentation/Notebooks
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| LLMExperimentNotebook | Prompts tested against various LLMs for comparison and evaluation. | [Link](https://github.com/danielrosehill/LLM-Experiment-Notebook) |
+| LLMsOnLLMs | LLMs explaining themselves (insightful, but accuracy not guaranteed). | [Link](https://github.com/danielrosehill/LLMs-on-LLMs) |
+| MrDavidRosen | LLM-generated alias to explore contextually guided prompting strategies.  | [Link](https://github.com/danielrosehill/Mr-David-Rosen) |
+
+
+
+<div id="prompt-engineering"></div>
+
+## Prompt Engineering
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| AwesomeLLMPromptLibraries | Index of prompting libraries for GPTs, including ChatGPT. | [Link](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries) |
+| AwesomePromptEngineering | Hand-curated resources for Prompt Engineering with a focus on GPT, ChatGPT, PaLM, etc. | [Link](https://github.com/danielrosehill/Awesome-Prompt-Engineering) |
+| LLMEvaluationPrompts | Prompts for running controlled experiments comparing and benchmarking different LLMs. | [Link](https://github.com/danielrosehill/LLM-Evaluation-Prompts) |
+| LLMPromptExtractionGUI | GUI for extracting prompts from outputs. | [Link](https://github.com/danielrosehill/LLM-Prompt-Extraction-GUI) |
+| MyStackResearchPrompts | Prompts for conducting tech stack research using LLMs. | [Link](https://github.com/danielrosehill/My-Stack-Research-Prompts) |
+| PromptEngineeringNotebook | Public prompts, prompt snippets, and prompt engineering resources. | [Link](https://github.com/danielrosehill/Prompt-Engineering-Notebook) |
+| PromptLibrary | Prompts used with LLMs. | [Link](https://github.com/danielrosehill/Prompt-Library) |
+| PromptsAndOutputs | A vault of over 2,000 prompts and outputs from interactions with various LLMs. | [Link](https://github.com/danielrosehill/Prompts-And-Outputs) |
+
+
+<div id="llm-generated-code"></div>
+
+## LLM-Generated Code
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| AIGeneratedCodeSamples | Scripts and programs generated with various LLMs. | [Link](https://github.com/danielrosehill/AI-Generated-Code-Samples) |
+| CustomGPTsOfChatGPT | Examples of custom GPTs created on the ChatGPT Store. | [Link](https://github.com/danielrosehill/Custom-GPTs-Of-ChatGPT) |
+| LLMCodeGenerationTests | Testing LLMs at generating Python GUIs from natural language prompts. | [Link](https://github.com/danielrosehill/LLM-Code-Generation-Tests) |
+
+
+<div id="reference-information"></div>
+
+## Reference Information/Explanations
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| LLMReferenceInfo | Reference information about GPTs and LLMs. | [Link](https://github.com/danielrosehill/LLM-Reference-Info) |
+| LLMUseCaseSelfIdeation | LLM-generated documents describing potential use-cases for LLMs. | [Link](https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation) |
+
+
+
+<div id="workflow"></div>
+
+## Workflow/Scaffolding
+
+| Repository Name | Description | URL |
+|-----------------|-------------|-----|
+| LLMWorkspaceScaffolder | Script for creating a repository structure for organizing prompts and outputs when working with LLMs. | [Link](https://github.com/danielrosehill/LLM-Workspace-Scaffolder) |
+| LLMWorkspaceScaffolding | Folder structure for systematic workflows with LLMs. | [Link](https://github.com/danielrosehill/LLM-Workspace-Scaffolding) |
 
  
-### Prompt Engineering & Management
-
-| Repository Name | Description | URL |
-|---|---|---|
-| Awesome-Prompt-Engineering | Curated resources for prompt engineering. | [Link](https://github.com/danielrosehill/Awesome-Prompt-Engineering) |
-| Awesome-LLM-Prompt-Libraries | Index of prompt libraries. | [Link](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries) |
-| Prompt-Engineering-Notebook | Public prompts, snippets, and resources. | [Link](https://github.com/danielrosehill/Prompt-Engineering-Notebook) |
-| Prompt-Library | Personal prompt collection. | [Link](https://github.com/danielrosehill/Prompt-Library) |
-| Prompts-And-Outputs | Vault of prompts and outputs from various LLMs. | [Link](https://github.com/danielrosehill/Prompts-And-Outputs) |
-| LLM-Prompt-Extraction-GUI | GUI for extracting prompts. | [Link](https://github.com/danielrosehill/LLM-Prompt-Extraction-GUI) |
-
-### Agents, Assistants, Custom GPTs
-
-| Repository Name | Description | URL |
-|---|---|---|
-| Custom-GPTs-Of-ChatGPT | Examples of custom GPTs. | [Link](https://github.com/danielrosehill/Custom-GPTs-Of-ChatGPT) |
-| Custom-LLM-Agents | Configurations for custom LLM agents. | [Link](https://github.com/danielrosehill/Custom-LLM-Agents) |
-| Mr-David-Rosen | LLM-generated persona for exploring prompting. | [Link](https://github.com/danielrosehill/Mr-David-Rosen) |
-
-### LLM-Assisted Code Generation
-
-| Repository Name | Description | URL |
-|---|---|---|
-| AI-Generated-Code-Samples | Code generated by LLMs. | [Link](https://github.com/danielrosehill/AI-Generated-Code-Samples) |
-| LLM-Code-Generation-Tests | Testing LLMs for generating code from natural language. | [Link](https://github.com/danielrosehill/LLM-Code-Generation-Tests) |
-
-### LLM Evaluation and Benchmarking
-
-| Repository Name | Description | URL |
-|---|---|---|
-| LLM-Evaluation-Prompts | Prompts for benchmarking LLMs. | [Link](https://github.com/danielrosehill/LLM-Evaluation-Prompts) |
-| LLM-Experiment-Notebook | Prompts tested against various LLMs. | [Link](https://github.com/danielrosehill/LLM-Experiment-Notebook) |
-
-### LLM Knowledge Management Workflows
-
-| Repository Name | Description | URL |
-|---|---|---|
-| LLM-Workspace-Scaffolder | Script for organizing LLM prompts and outputs. | [Link](https://github.com/danielrosehill/LLM-Workspace-Scaffolder) |
-| LLM-Workspace-Scaffolding | Folder structure for LLM workflows. | [Link](https://github.com/danielrosehill/LLM-Workspace-Scaffolding) |
-| My-LLM-KM-Idea | Documentation for an LLM knowledge base system. | [Link](https://github.com/danielrosehill/My-LLM-KM-Idea) |
-| Obsidian-For-LLM-Capture | Optimizing Obsidian as an LLM knowledge base. | [Link](https://github.com/danielrosehill/Obisidian-For-LLM-Capture) |
-| Obsidian-Prompt-Output-Saver | Utility for saving prompts and outputs to Obsidian. | [Link](https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver) |
-
-### LLM Use-Case Exploration
-
-| Repository Name | Description | URL |
-|---|---|---|
-| LLM-Use-Case-Self-Ideation | LLM-generated use-cases. | [Link](https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation) |
-| My-Stack-Research-Prompts | Prompts for tech stack research. | [Link](https://github.com/danielrosehill/My-Stack-Research-Prompts) |
-
-### LLM Reference Information 
-
-| Repository Name | Description | URL |
-|---|---|---|
-| LLM-Reference-Info | Reference information about LLMs. | [Link](https://github.com/danielrosehill/LLM-Reference-Info) |
-| LLMs-on-LLMs | LLMs explaining themselves. | [Link](https://github.com/danielrosehill/LLMs-on-LLMs) |
-
-### LLM Geopolitical Analysis
-
-| Repository Name | Description | URL |
-|---|---|---|
-| Geopolitical-Modeller-GPT | Custom GPT for geopolitical scenario modeling. | [Link](https://github.com/danielrosehill/Geopolitical-Modeller-GPT) |
-| Israel-GeoInsights | Using LLMs to analyze geopolitical developments. | [Link](https://github.com/danielrosehill/Israel-GeoInsights) |
-| Israel-SITREP-Generation-Prompts | Prompts for generating geopolitical SITREPs. | [Link](https://github.com/danielrosehill/Israel-SITREP-Generation-Prompts) |
-
-### LLM Community Resources
-
-| Repository Name | Description | URL |
-|---|---|---|
-| Awesome-LLM-Communities | Online communities discussing LLM use. | [Link](https://github.com/danielrosehill/Awesome-LLM-Communities) |
-
-### LLM Cost Analysis
-
-| Repository Name | Description | URL |
-|---|---|---|
-| LLM-API-Price-Estimates | Cost estimates for using LLM APIs. | [Link](https://github.com/danielrosehill/LLM-API-Price-Estimates) |
