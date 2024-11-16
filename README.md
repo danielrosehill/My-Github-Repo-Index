@@ -1,6 +1,10 @@
 # Daniel Rosehill Github Index
 
-*Last update: 15-11 (Nov) - 2024*
+![alt text](images/banner.webp)
+
+*Note: I update this repo index every few months. My 'modus operandi' on Github is something like this: I create a lot of 'first entry' repos. Over time, I work on consolidating and rationalising what I can. I have tech interests that are very longstanding (Linux, backups) as well as those that are more recent (data science, LLMs).*
+
+
 
 
 ## Repositories (All, Alphabetical) 
