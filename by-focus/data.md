@@ -7,8 +7,6 @@ title: "Data"
 | Repository Name | Description | URL |
 |-----------------|-------------|-----|
 | Data Analysis Notebook Public | A public notebook of some analytical work with datasets | [Link](https://github.com/danielrosehill/Data-Analysis-Notebook-Public) |
-| Data Science Israel | Data-related companies and people in Israel! | [Link](https://github.com/danielrosehill/Data-Science-Israel) |
-| Dataset Publishing Platforms | To save others time, a small curated list of open source / self-hostable platforms intended for publishing publicly-accessible datasets | [Link](https://github.com/danielrosehill/Dataset-Publishing-Platforms) |
 | Emissions Data Reports | A few datapoints from publicly available quantitative emissions data (from companies) | [Link](https://github.com/danielrosehill/Emissions-Data-Reports) |
 | GHG Emissions Monetisation Calculator | Calculation simulation utility for monetised GHG emissions | [Link](https://github.com/danielrosehill/GHG-Emissions-Monetisation-Calculator) |
 | Global Value Factors Explorer | (Non-official) derivative version of IFVI Global Value Factors Database in JSON/GeoJSON to facilitate data analysis projects | [Link](https://github.com/danielrosehill/Global-Value-Factors-Explorer) |
