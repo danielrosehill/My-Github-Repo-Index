@@ -1,0 +1,19 @@
+name: Notify Main Repository
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  notify-main-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Notify Main Repository
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PAT }}  # Personal Access Token with repo access
+          repository: danielrosehill/Documetation-Root-Repo
+          event-type: update-submodule
+          client-payload: '{"submodule": "${{ github.repository }}"}'
