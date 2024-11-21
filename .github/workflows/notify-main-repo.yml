@@ -1,19 +1,13 @@
-name: Notify Main Repository
+name: Trigger Netlify Build
 
 on:
   push:
     branches:
-      - main  
+      - main
 
 jobs:
-  notify-main-repo:
+  notify-netlify:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Notify Main Repository
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.PAT }}  # Personal Access Token with repo access
-          repository: danielrosehill/Documetation-Root-Repo
-          event-type: update-submodule
-          client-payload: '{"submodule": "${{ github.repository }}"}'
+      - name: Trigger Netlify Build Hook
+        run: curl -X POST -d '{}' ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
