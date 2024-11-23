@@ -1,5 +1,5 @@
 ---
-title: "Israel Repos"
+title: "Israel"
 ---
 
 ### Geopolitics/Israel
