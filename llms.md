@@ -1,5 +1,5 @@
 ---
-tile: "LLM Repos"
+title: "LLMs & AI"
 ---
 
 # Artificial Intelligence, Large Language Models
