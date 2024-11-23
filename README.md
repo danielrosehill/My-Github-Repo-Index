@@ -2,11 +2,15 @@
 
 ![alt text](images/banner.webp)
 
- To use the index, click on a section in the left (sidebar)
+ To use the index, click on a section in the left (sidebar).
 
- ## Homepage & Other Projects
+ Note: if you're accessing this on Github, documentation repositories are (mostly) excluded.
 
- # Index
+ Those can be accessed, instead, via my [docs site](https://docs.bydanielrosehill.com).
+
+## Homepage & Other Projects
+
+# Index
 
 ## Personal Homepage
 [![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square)](https://danielrosehill.com)
